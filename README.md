@@ -18,12 +18,20 @@ El almacenamiento adecuado de medicamentos en farmacias es crucial para mantener
 
 Utilizar computación paralela para dividir las tareas de monitoreo entre múltiples procesos e hilos, mejorando la eficiencia y asegurando una respuesta rápida en tiempo real.
 
-## Configuración del Entorno
+
 
 ### Requisitos
 
 - **Hardware:** CPU con múltiples núcleos, preferentemente con soporte para paralelismo.
 - **Sistema Operativo:** Linux, macOS o Windows.
 - **Bibliotecas y Frameworks:** Python 3.8 o superior, `multiprocessing`, `threading`, `time`.
+ Multiprocessing
+## Configuración del Entorno
+Instala las dependencias necesarias
+pip install -r Requisitos.txt
+
+Para ejecutar el codigo utiliza el siguiente comando:
+python monitor_sensors.py
+  -Se mostraran los resultados para cada uno de los casos, mostrara el tiempo y el numero total de lecturas de sensor que realiza.
 
 
