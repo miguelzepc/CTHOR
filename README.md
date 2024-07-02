@@ -31,8 +31,8 @@ Utilizar computación paralela para dividir las tareas de monitoreo entre múlti
 Instala las dependencias necesarias:  **-pip install -r Requisitos.txt**
 
 
--Para ejecutar el codigo utiliza el siguiente comando.
+- Para ejecutar el codigo utiliza el siguiente comando.
 **python monitor_sensors.py**
-  -Se mostraran los resultados para cada uno de los casos, mostrara el tiempo y el numero total de lecturas de sensor que realiza.
+- Se mostraran los resultados para cada uno de los casos, mostrara el tiempo y el numero total de lecturas de sensor que realiza.
 
 
