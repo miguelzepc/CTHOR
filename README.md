@@ -27,7 +27,7 @@ Utilizar computación paralela para dividir las tareas de monitoreo entre múlti
 - **Bibliotecas y Frameworks:** Python 3.8 o superior, `multiprocessing`, `threading`, `time`.
  Multiprocessing
 ## Configuración del Entorno
-Instala las dependencias necesarias
+Instala las dependencias necesarias.
 pip install -r Requisitos.txt
 
 -Para ejecutar el codigo utiliza el siguiente comando.
