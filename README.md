@@ -26,9 +26,10 @@ Utilizar computación paralela para dividir las tareas de monitoreo entre múlti
 - **Sistema Operativo:** Linux, macOS o Windows.
 - **Bibliotecas y Frameworks:** Python 3.8 o superior, `multiprocessing`, `threading`, `time`.
  Multiprocessing
+
 ## Configuración del Entorno
-Instala las dependencias necesarias.
-pip install -r Requisitos.txt
+-Instala las dependencias necesarias.
+-pip install -r Requisitos.txt
 
 -Para ejecutar el codigo utiliza el siguiente comando.
 **python monitor_sensors.py**
