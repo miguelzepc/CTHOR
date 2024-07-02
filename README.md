@@ -25,10 +25,10 @@ Utilizar computación paralela para dividir las tareas de monitoreo entre múlti
 - **Hardware:** CPU con múltiples núcleos, preferentemente con soporte para paralelismo.
 - **Sistema Operativo:** Linux, macOS o Windows.
 - **Bibliotecas y Frameworks:** Python 3.8 o superior, `multiprocessing`, `threading`, `time`.
- Multiprocessing
+
 
 ## Configuración del Entorno
--Instala las dependencias necesarias.
+-**Instala las dependencias necesarias**.
 -pip install -r Requisitos.txt
 
 -Para ejecutar el codigo utiliza el siguiente comando.
