@@ -29,6 +29,8 @@ Utilizar computación paralela para dividir las tareas de monitoreo entre múlti
 
 ## Configuración del Entorno
 Instala las dependencias necesarias:  **-pip install -r Requisitos.txt**
+ENLACE DEL VIDEO: 
+https://youtu.be/8_VJlCS4WpA
 
 
 - Para ejecutar el codigo utiliza el siguiente comando.
